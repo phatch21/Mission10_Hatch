@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\controllers\\bowlerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\bowlerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\bowlerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\tourneymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\tourneymatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\bowlingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\bowlingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\models\\bowlerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\models\\bowlerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\mission10_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\mission10_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|c:\\users\\pghat\\source\\repos\\mission10_api\\backend\\mission10_api\\mission10_api\\mission10_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BABD7DFE-C945-4B6B-AA7F-D34E3486CAF4}|Mission10_API\\Mission10_API.csproj|solutionrelative:mission10_api\\mission10_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\BowlerDTO.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\BowlerDTO.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\BowlerDTO.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\BowlerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:19:54.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Program.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Program.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Program.cs",
+              "RelativeToolTip": "Mission10_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:38.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlersController.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Controllers\\BowlersController.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Controllers\\BowlersController.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Controllers\\BowlersController.cs",
+              "RelativeToolTip": "Mission10_API\\Controllers\\BowlersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:12:51.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\Bowler.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\Bowler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:17.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\Team.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\WeatherForecast.cs",
+              "RelativeToolTip": "Mission10_API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:15:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TourneyMatch.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\TourneyMatch.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\TourneyMatch.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\TourneyMatch.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\TourneyMatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\Tournament.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\Tournament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:25.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchGame.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\MatchGame.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\MatchGame.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\MatchGame.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\MatchGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:23.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BowlingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\BowlingDbContext.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\BowlingDbContext.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\BowlingDbContext.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\BowlingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BowlerScore.cs",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\BowlerScore.cs",
+              "RelativeDocumentMoniker": "Mission10_API\\Models\\BowlerScore.cs",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Models\\BowlerScore.cs",
+              "RelativeToolTip": "Mission10_API\\Models\\BowlerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:21.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mission10_API",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Mission10_API.csproj",
+              "RelativeDocumentMoniker": "Mission10_API\\Mission10_API.csproj",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Mission10_API.csproj",
+              "RelativeToolTip": "Mission10_API\\Mission10_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T20:04:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mission10_API.http",
+              "DocumentMoniker": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Mission10_API.http",
+              "RelativeDocumentMoniker": "Mission10_API\\Mission10_API.http",
+              "ToolTip": "C:\\Users\\pghat\\source\\repos\\Mission10_API\\backend\\Mission10_API\\Mission10_API\\Mission10_API.http",
+              "RelativeToolTip": "Mission10_API\\Mission10_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-10T20:08:11.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
