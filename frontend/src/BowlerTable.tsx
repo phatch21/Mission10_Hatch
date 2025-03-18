@@ -1,3 +1,7 @@
+// Payton Hatch
+// Group 4-6
+// Bowler table form
+
 import { useEffect, useState } from "react";
 import axios from "axios";
 
